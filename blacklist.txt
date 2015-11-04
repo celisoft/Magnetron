@@ -1,4 +1,5 @@
 http://149.5.241.17:6969/announce
+http://94.228.192.98:80/announce
 http://announce.torrentsmd.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bt.careland.com.cn:6969/announce
@@ -51,6 +52,8 @@ udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.leechers-paradise.org:6969/announce
+udp://tracker.nwps.ws:6969/announce
 udp://tracker.pomf.se:80/announce
+udp://tracker.secureboxes.net:80/announce
 udp://tracker.token.ro:80/announce
 udp://tracker.zond.org:80/announce
