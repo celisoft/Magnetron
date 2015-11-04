@@ -27,8 +27,11 @@ http://tracker.nwps.ws:6969/announce
 http://tracker.tfile.me/announce
 http://tracker.thepiratebay.org/announce
 http://tracker.trackerfix.com/announce
+http://tracker.windsormetalbattery.com/announce
 http://tracker.winglai.com/announce
 udp://10.rarbg.me:80/announce
+udp://11.rarbg.me:80/announce
+udp://12.rarbg.me:80/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
