@@ -1,4 +1,5 @@
 http://149.5.241.17:6969/announce
+http://91.218.230.81:6969/announce
 http://94.228.192.98:80/announce
 http://announce.torrentsmd.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
@@ -14,12 +15,17 @@ http://retracker.krs-ix.ru/announce
 http://retracker.ohys.net:1096/announce
 http://retracker.telecom.kz/announce
 http://torrent-tracker.ru/announce.php
+http://tracker1.infohash.org/announce
+http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.infohash.org/announce
 http://tracker2.wasabii.com.tw:6969/announce
+http://tracker4.itzmx.com:2710/announce
 http://tracker5.infohash.org/announce
 http://tracker6.infohash.org/announce
+http://tracker9.infohash.org/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.best-torrents.net:6969/announce
+http://tracker.btcake.com/announce
 http://tracker.glotorrents.com:6969/announce
 http://tracker.istole.it/announce
 http://tracker.kuroy.me:5944/announce
@@ -30,6 +36,8 @@ http://tracker.thepiratebay.org/announce
 http://tracker.trackerfix.com/announce
 http://tracker.windsormetalbattery.com/announce
 http://tracker.winglai.com/announce
+http://tracker.yoshi210.com:6969/announce
+http://ulfbrueggemann.no-ip.org:6969/announce
 udp://10.rarbg.me:80/announce
 udp://11.rarbg.me:80/announce
 udp://12.rarbg.me:80/announce
