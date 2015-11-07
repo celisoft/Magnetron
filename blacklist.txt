@@ -46,7 +46,6 @@ udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me/announce
 udp://9.rarbg.to:2710/announce
-udp://coppersurfer.tk:6969/announce
 udp://eddie4.nl:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://glotorrents.pw:6969/announce
@@ -57,12 +56,9 @@ udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.blackunicorn.xyz:6969/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
-udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.istole.it:80/announce
-udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.nwps.ws:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.secureboxes.net:80/announce
