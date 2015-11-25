@@ -39,6 +39,7 @@ http://tracker.trackerfix.com/announce
 http://tracker.windsormetalbattery.com/announce
 http://tracker.winglai.com/announce
 http://tracker.yoshi210.com:6969/announce
+http://tracker.zaerc.com/announce
 http://ulfbrueggemann.no-ip.org:6969/announce
 udp://10.rarbg.me:80/announce
 udp://11.rarbg.com/announce
