@@ -10,6 +10,7 @@ http://glotorrents.com:6969/announce
 http://glotorrents.pw:6969/announce
 http://luisaranguren.com:6969/announce
 http://mgtracker.org:2710/announce
+http://open.acgtracker.com:1096/announce
 http://retracker.2kom.ru/announce
 http://retracker.krs-ix.ru/announce
 http://retracker.ohys.net:1096/announce
@@ -26,6 +27,7 @@ http://tracker9.infohash.org/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.best-torrents.net:6969/announce
 http://tracker.btcake.com/announce
+http://tracker.dler.org:6969/announce
 http://tracker.glotorrents.com:6969/announce
 http://tracker.istole.it/announce
 http://tracker.kuroy.me:5944/announce
@@ -49,8 +51,11 @@ udp://9.rarbg.to:2710/announce
 udp://eddie4.nl:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://glotorrents.pw:6969/announce
+udp://inferno.demonoid.ooo:3392/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://p4p.arenabg.com:1337/announce
+udp://pow7.com:80/announce
+udp://retracker.telecom.kz:80/announce
 udp://tracker4.piratux.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.blackunicorn.xyz:6969/announce
@@ -60,7 +65,9 @@ udp://tracker.ex.ua:80/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.nwps.ws:6969/announce
+udp://tracker.ohys.net:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.secureboxes.net:80/announce
+udp://tracker.sktorrent.net:6969/announce
 udp://tracker.token.ro:80/announce
 udp://tracker.zond.org:80/announce
