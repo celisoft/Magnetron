@@ -33,6 +33,7 @@ http://tracker.istole.it/announce
 http://tracker.kuroy.me:5944/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.nwps.ws:6969/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.tfile.me/announce
 http://tracker.thepiratebay.org/announce
 http://tracker.trackerfix.com/announce
