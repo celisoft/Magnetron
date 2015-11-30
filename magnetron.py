@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-import re, errno, sys
-from optparse import OptionParser
+import argparse, re, errno, sys
 from urllib.parse import urlparse
 
 def generate_new_uri(params):
@@ -13,12 +12,12 @@ def generate_new_uri(params):
 
 if __name__ == '__main__':
 	#Parse given args
-	parser = OptionParser()
-	parser.add_option('-u', '--uri', dest='base_uri', help='The magnet uri to cleanup')
-	(options, args) = parser.parse_args()
+	parser = argparse.ArgumentParser()
+	parser.add_argument('--uri', dest='base_uri', help='The magnet uri to cleanup')
+	args = parser.parse_args()
 
 	#Parse the given uri into an object
-	parsed_base_uri = urlparse(options.base_uri)
+	parsed_base_uri = urlparse(args.base_uri)
 
 	#Check if the given URI is a magnet link
 	if parsed_base_uri.scheme == 'magnet':

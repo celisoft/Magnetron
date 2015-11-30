@@ -7,7 +7,7 @@ Magnetron is a Python script to remove unwanted trackers from a magnet link.
 
 Usage
 -----
-For the moment, there's only one option required '-u URI' or '--uri=URI'.
+For the moment, there's only one option required '--uri=URI'.
 
 The URI must be put into quotation marks and must be a magnet link like this :
 
