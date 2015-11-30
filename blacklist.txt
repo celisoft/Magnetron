@@ -26,6 +26,7 @@ http://tracker6.infohash.org/announce
 http://tracker9.infohash.org/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.best-torrents.net:6969/announce
+http://tracker.blucds.com:2710/announce
 http://tracker.btcake.com/announce
 http://tracker.dler.org:6969/announce
 http://tracker.glotorrents.com:6969/announce
@@ -36,6 +37,7 @@ http://tracker.nwps.ws:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.me/announce
 http://tracker.thepiratebay.org/announce
+http://tracker.torrenty.org:6969/announce
 http://tracker.trackerfix.com/announce
 http://tracker.windsormetalbattery.com/announce
 http://tracker.winglai.com/announce
