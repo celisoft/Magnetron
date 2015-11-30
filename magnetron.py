@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse, re, errno, sys
+import argparse, re, errno, os, sys
 from urllib.parse import urlparse
 
 def generate_new_uri(params):
@@ -14,6 +14,7 @@ if __name__ == '__main__':
 	#Parse given args
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--uri', dest='base_uri', help='The magnet uri to cleanup')
+	parser.add_argument('--redirect-to', dest='redirect_to', nargs='?', help='The program that will handle the cleaned URI')
 	args = parser.parse_args()
 
 	#Parse the given uri into an object
@@ -60,7 +61,12 @@ if __name__ == '__main__':
 		else:
 			uri_params['tr']=trackers
 			new_uri = generate_new_uri(uri_params)
-			print(new_uri)
+
+			if args.redirect_to is None:
+				print(new_uri)
+			else:
+				command = args.redirect_to +" " + new_uri
+				os.system(command)
 	else:
 		print('Sorry, this is not a magnet URI')
 

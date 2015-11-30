@@ -7,6 +7,12 @@ Magnetron is a Python script to remove unwanted trackers from a magnet link.
 
 Usage
 -----
+There is 2 possible arguments, one of them is mandatory:
+
+- '--uri URI' is the mandatory argument, it's the magnet link to be cleaned up,
+
+- '--redirect-to PROG' is an optional argument that is used to open the link. This option works with 'transmission-gtk' or 'firefox'.
+
 For the moment, there's only one option required '--uri URI'.
 
 The URI must be put into quotation marks and must be a magnet link like this :
