@@ -13,8 +13,8 @@ def generate_new_uri(params):
 if __name__ == '__main__':
 	#Parse given args
 	parser = argparse.ArgumentParser()
-	parser.add_argument('--uri', dest='base_uri', help='The magnet uri to cleanup')
-	parser.add_argument('--redirect-to', dest='redirect_to', nargs='?', help='The program that will handle the cleaned URI')
+	parser.add_argument('--uri', '-u', dest='base_uri', help='The magnet uri to cleanup')
+	parser.add_argument('--redirect-to', '-r', dest='redirect_to', nargs='?', help='The program that will handle the cleaned URI')
 	args = parser.parse_args()
 
 	#Parse the given uri into an object
