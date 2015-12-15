@@ -5,6 +5,7 @@ http://94.228.192.98:80/announce
 http://announce.torrentsmd.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bt.careland.com.cn:6969/announce
+http://bt.poletracker.org:2710/announce
 http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
 http://glotorrents.com:6969/announce
@@ -33,6 +34,7 @@ http://tracker.nwps.ws:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.me/announce
 http://tracker.thepiratebay.org/announce
+http://tracker.torrentfrancais.com/announce
 http://tracker.torrenty.org:6969/announce
 http://tracker.trackerfix.com/announce
 http://tracker.windsormetalbattery.com/announce
