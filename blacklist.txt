@@ -52,6 +52,7 @@ http://ulfbrueggemann.no-ip.org:6969/announce
 udp://10.rarbg.me:80/announce
 udp://11.rarbg.com/announce
 udp://11.rarbg.com:80/announce
+udp://11.rarbg.me:6969/announce
 udp://11.rarbg.me:80/announce
 udp://12.rarbg.me:80/announce
 udp://9.rarbg.com:2710/announce
@@ -76,6 +77,7 @@ udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.ilibr.org:6969/announce
+udp://tracker.istole.it:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.nwps.ws:6969/announce
 udp://tracker.ohys.net:6969/announce
