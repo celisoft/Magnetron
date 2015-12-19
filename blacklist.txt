@@ -10,6 +10,7 @@ http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
 http://glotorrents.com:6969/announce
 http://glotorrents.pw:6969/announce
+http://i.bandito.org/announce
 http://leopard.raws.ws:6969/announce
 http://luisaranguren.com:6969/announce
 http://mgtracker.org:2710/announce
@@ -27,6 +28,7 @@ http://tracker.btcake.com/announce
 http://tracker.dler.org:6969/announce
 http://tracker.glotorrents.com:6969/announce
 http://tracker.istole.it/announce
+http://tracker.kamyu.net/announce
 http://tracker.kicks-ass.net/announce
 http://tracker.kuroy.me:5944/announce
 http://tracker.mg64.net:6881/announce
@@ -34,6 +36,7 @@ http://tracker.nwps.ws:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.tfile.me/announce
 http://tracker.thepiratebay.org/announce
+http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrentfrancais.com/announce
 http://tracker.torrenty.org:6969/announce
 http://tracker.trackerfix.com/announce
@@ -51,6 +54,8 @@ http://tracker5.infohash.org/announce
 http://tracker6.infohash.org/announce
 http://tracker9.infohash.org/announce
 http://ulfbrueggemann.no-ip.org:6969/announce
+http://www.c-vs-j.org/announce.php
+udp://10.rarbg.com/announce
 udp://10.rarbg.me:80/announce
 udp://11.rarbg.com/announce
 udp://11.rarbg.com:80/announce
@@ -64,9 +69,11 @@ udp://9.rarbg.to:2710/announce
 udp://eddie4.nl:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fr33dom.h33t.eu:3310/announce
+udp://fr33domtracker.h33t.com:3310/announce
 udp://glotorrents.com:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://inferno.demonoid.ooo:3392/announce
+udp://inferno.demonoid.ph:3389/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://mgtracker.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
@@ -84,8 +91,10 @@ udp://tracker.istole.it:80/announce
 udp://tracker.nwps.ws:6969/announce
 udp://tracker.ohys.net:6969/announce
 udp://tracker.pomf.se:80/announce
+udp://tracker.prq.to/announce
 udp://tracker.secureboxes.net:80/announce
 udp://tracker.sktorrent.net:6969/announce
+udp://tracker.tntvillage.scambioetico.org:2710/announce
 udp://tracker.token.ro:80/announce
 udp://tracker.zond.org:80/announce
 udp://tracker4.piratux.com:6969/announce
