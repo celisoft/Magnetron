@@ -1,3 +1,4 @@
+http://explodie.org:6969/announce
 http://flashtorrents.org:6969/announce
 http://tracker.flashtorrents.org:6969/announce
 udp://coppersurfer.tk:6969/announce
