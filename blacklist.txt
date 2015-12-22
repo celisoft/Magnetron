@@ -1,6 +1,7 @@
 http://149.5.241.17:6969/announce
 http://210.244.71.11:6969/announce
 http://91.218.230.81:6969/announce
+http://94.228.192.98/announce
 http://94.228.192.98:80/announce
 http://announce.torrentsmd.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
@@ -59,6 +60,7 @@ udp://10.rarbg.com/announce
 udp://10.rarbg.me:80/announce
 udp://11.rarbg.com/announce
 udp://11.rarbg.com:80/announce
+udp://11.rarbg.me/announce
 udp://11.rarbg.me:6969/announce
 udp://11.rarbg.me:80/announce
 udp://12.rarbg.me:80/announce
