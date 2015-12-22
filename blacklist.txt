@@ -3,10 +3,14 @@ http://210.244.71.11:6969/announce
 http://91.218.230.81:6969/announce
 http://94.228.192.98/announce
 http://94.228.192.98:80/announce
+http://95.85.40.114/announce
 http://announce.torrentsmd.com:6969/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bt.careland.com.cn:6969/announce
 http://bt.poletracker.org:2710/announce
+http://bt01.gamebar.com:6969/announce
+http://bt2.careland.com.cn:6969/announce
+http://eddie4.nl:6969/announce&
 http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
 http://glotorrents.com:6969/announce
@@ -17,9 +21,14 @@ http://luisaranguren.com:6969/announce
 http://mgtracker.org:2710/announce
 http://open.acgtracker.com:1096/announce
 http://retracker.2kom.ru/announce
+http://retracker.adminko.org/announce
 http://retracker.krs-ix.ru/announce
 http://retracker.ohys.net:1096/announce
+http://retracker.perm.ertelecom.ru/announce
 http://retracker.telecom.kz/announce
+http://server2.9sheng.cn:6969/announce
+http://shadowshq.eddie4.nl:6969/announce
+http://sugoi.pomf.se:2710/announce
 http://torrent-tracker.ru/announce.php
 http://tot.is:6969/announce
 http://tracker.aletorrenty.pl:2710/announce
@@ -28,6 +37,7 @@ http://tracker.blucds.com:2710/announce
 http://tracker.btcake.com/announce
 http://tracker.dler.org:6969/announce
 http://tracker.glotorrents.com:6969/announce
+http://tracker.hexagon.cc:2710/announce
 http://tracker.istole.it/announce
 http://tracker.kamyu.net/announce
 http://tracker.kicks-ass.net/announce
