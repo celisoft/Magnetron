@@ -15,6 +15,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--uri', '-u', dest='base_uri', help='The magnet uri to cleanup')
 	parser.add_argument('--redirect-to', '-r', dest='redirect_to', nargs='?', help='The program that will handle the cleaned URI')
+	parser.add_argument('--max', dest='max_tracker', type=int, help='Set a max number of trackers') 
 	args = parser.parse_args()
 
 	#Parse the given uri into an object
@@ -29,6 +30,7 @@ if __name__ == '__main__':
 		uri_params = {}
 		bl_trackers = []
 		bl_counter = 0
+		tr_counter = 0
 		
 		#Load blacklisted trackers
 		try:
@@ -50,12 +52,21 @@ if __name__ == '__main__':
 				if tracker in bl_trackers:
 					bl_counter += 1
 				else:
-					trackers.append(tracker)
+					#if no max number of tracker defined add it
+					if args.max_tracker is None:
+						trackers.append(tracker)
+						tr_counter += 1
+					else:
+						#if the number of trackers < given max argument, add it
+						if tr_counter < args.max_tracker:
+							trackers.append(tracker)
+							tr_counter += 1
 			else:
 				#Just store the param to reuse it later
 				uri_params[splitted_param[0]]=splitted_param[1]
 	
 		print(bl_counter, 'blacklisted trackers found !')
+		print(tr_counter, 'tracker(s) left') 
 		if not trackers:
 			print("All trackers from the magnet link were removed !");
 		else:
