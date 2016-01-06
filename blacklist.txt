@@ -66,6 +66,7 @@ http://tracker6.infohash.org/announce
 http://tracker9.infohash.org/announce
 http://ulfbrueggemann.no-ip.org:6969/announce
 http://www.c-vs-j.org/announce.php
+http://www.les-renseignements-genereux.org:80/announce
 udp://10.rarbg.com/announce
 udp://10.rarbg.me:80/announce
 udp://11.rarbg.com/announce
