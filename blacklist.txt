@@ -1,5 +1,6 @@
 http://149.5.241.17:6969/announce
 http://210.244.71.11:6969/announce
+http://9.rarbg.com:2710/announce
 http://91.218.230.81:6969/announce
 http://94.228.192.98/announce
 http://94.228.192.98:80/announce
@@ -10,6 +11,8 @@ http://bt.careland.com.cn:6969/announce
 http://bt.poletracker.org:2710/announce
 http://bt01.gamebar.com:6969/announce
 http://bt2.careland.com.cn:6969/announce
+http://cpleft.com:2710/announce
+http://denis.stalker.h3q.com:6969/announce
 http://eddie4.nl:6969/announce&
 http://exodus.desync.com:6969/announce
 http://fr33dom.h33t.com:3310/announce
@@ -80,6 +83,7 @@ udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
+udp://denis.stalker.h3q.com:6969/announce
 udp://eddie4.nl:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://fr33dom.h33t.eu:3310/announce
